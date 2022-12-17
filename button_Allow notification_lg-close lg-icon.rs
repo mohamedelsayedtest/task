@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Allow notification_lg-close lg-icon</name>
+   <tag></tag>
+   <elementGuidId>070822b3-50bf-4bda-9e54-7d686be3a492</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.lg-close.lg-icon</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[76]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>477c1076-0526-4c25-8b13-9b96d2a498d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>d86b824f-db26-4890-afe8-5bdcfe313b0d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Close gallery</value>
+      <webElementGuid>3017c087-d53e-4d7b-93d2-437cf4616a05</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>lg-close lg-icon</value>
+      <webElementGuid>ad77d4b2-c098-4857-a216-d62a6e5c2194</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;lg-on&quot;]/div[@class=&quot;lg-outer lg-start-zoom lg-use-css3 lg-css3 lg-slide lg-grab lg-show-after-load lg-pull-caption-up lg-has-thumb lg-can-toggle lg-use-transition-for-zoom lg-visible lg-thumb-open&quot;]/div[@class=&quot;lg&quot;]/div[@class=&quot;lg-toolbar lg-group&quot;]/button[@class=&quot;lg-close lg-icon&quot;]</value>
+      <webElementGuid>384034a9-e0ed-4b75-81e7-3e0c3c91d89e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[76]</value>
+      <webElementGuid>f61f7b34-1437-4e16-b807-fe1a44d0e52b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div[2]/button</value>
+      <webElementGuid>49474d90-ef4e-4232-ba05-14c65210e3fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button']</value>
+      <webElementGuid>c3de947f-4e99-4035-abde-267ce33270f6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

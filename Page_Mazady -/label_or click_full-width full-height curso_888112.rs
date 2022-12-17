@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_or click_full-width full-height curso_888112</name>
+   <tag></tag>
+   <elementGuidId>ebe7e848-60d3-4323-a20a-46a77aee8148</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>label.full-width.full-height.cursor-pointer</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='step-2']/span/div[2]/div[10]/div/div/div/div/div[3]/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>c7bb0e13-95fb-49f3-844d-f1ffa0642ccd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>main_image</value>
+      <webElementGuid>6a46880d-fcc6-4cb9-adfc-c927f33f907a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>full-width full-height cursor-pointer</value>
+      <webElementGuid>7e5b73e8-2639-4074-81b1-50951da6ba0e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;step-2&quot;)/span[1]/div[@class=&quot;container form-container-group&quot;]/div[@class=&quot;row mb-2 mt-4&quot;]/div[@class=&quot;col-12 m-auto mb-3&quot;]/div[1]/div[@class=&quot;image-container position-relative text-center&quot;]/div[@class=&quot;image-center position-absolute display-flex flex-column justify-content-center align-items-center&quot;]/div[@class=&quot;image-input position-absolute full-width full-height&quot;]/label[@class=&quot;full-width full-height cursor-pointer&quot;]</value>
+      <webElementGuid>bf89d6e1-f8a4-4b73-b816-106c03e3e83f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='step-2']/span/div[2]/div[10]/div/div/div/div/div[3]/label</value>
+      <webElementGuid>71991fbe-fcba-4ccb-8c61-cac541ba6f1a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[10]/div/div/div/div/div[3]/label</value>
+      <webElementGuid>8cde48f1-9743-49a8-9549-ded85994f48c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

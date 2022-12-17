@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Live_switcher</name>
+   <tag></tag>
+   <elementGuidId>a9b40e17-2da8-4f9d-8dab-41e8edeeff8f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-12.mt-0 > label.cl-switch.cl-switch-red.mt-1 > span.switcher</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='step-3']/span/div/div[9]/span/div[2]/label/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>dbf71e08-786d-44cb-ab2b-24e9e5e26115</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>switcher</value>
+      <webElementGuid>a819cbe5-029d-4e9e-bb65-c1b92a5cd277</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;step-3&quot;)/span[1]/div[@class=&quot;container form-container-group&quot;]/div[@class=&quot;row mb-2&quot;]/span[1]/div[@class=&quot;col-12 mt-0&quot;]/label[@class=&quot;cl-switch cl-switch-red mt-1&quot;]/span[@class=&quot;switcher&quot;]</value>
+      <webElementGuid>689c68c7-a0a0-4165-ad27-2d21c1ad2ca1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='step-3']/span/div/div[9]/span/div[2]/label/span[2]</value>
+      <webElementGuid>3bfe2608-949c-4f3b-a1b3-222e64f30346</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/label/span[2]</value>
+      <webElementGuid>97898147-425b-47c9-a199-31131b895b51</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

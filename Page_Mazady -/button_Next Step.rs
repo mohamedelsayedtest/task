@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Next Step</name>
+   <tag></tag>
+   <elementGuidId>bffd8d97-731b-4ebf-8cde-9d8df441d86a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-buy.continue</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[7]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>f3f1a058-8bce-4e6c-86c7-57442a8947f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>6654db36-4093-4779-8312-4be715e79af5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-buy continue</value>
+      <webElementGuid>d6968389-dd90-4388-91a3-1f7a4042fd54</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                Next Step
+                            </value>
+      <webElementGuid>6d8d29c6-52b4-4ceb-9dca-422e666f52c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;step-1&quot;)/div[@class=&quot;container form-container-group&quot;]/div[@class=&quot;row mb-2 mt-4&quot;]/div[@class=&quot;w-25 text-center m-auto&quot;]/button[@class=&quot;btn btn-buy continue&quot;]</value>
+      <webElementGuid>e82ab57f-3e25-4cd0-a541-98fac2ec5527</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>f666c34f-5d26-46d8-b860-d784b9ef6d1c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>ae40a831-238c-4ebb-a944-8f2338aea788</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-buy continue</value>
+      <webElementGuid>bcb3019d-0980-4e60-a9e4-60824b01b31e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                Next Step
+                            </value>
+      <webElementGuid>f3be57f5-4469-4e5a-ba50-2644413be783</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;step-1&quot;)/div[@class=&quot;container form-container-group&quot;]/div[@class=&quot;row mb-2 mt-4&quot;]/div[@class=&quot;w-25 text-center m-auto&quot;]/button[@class=&quot;btn btn-buy continue&quot;]</value>
+      <webElementGuid>7e5ec1ee-a9aa-4424-9479-4461b06829bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>d9255e18-079e-4d11-aa09-6452df2fcf90</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>48f017f9-dbd1-4b78-b316-7c533d72d54c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-buy continue</value>
+      <webElementGuid>fe2c33ee-9776-4c5f-a6eb-2f2daa5bb8b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                Next Step
+                            </value>
+      <webElementGuid>ce65033e-dfa9-49ce-a2f3-a742daf6f4f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;step-1&quot;)/div[@class=&quot;container form-container-group&quot;]/div[@class=&quot;row mb-2 mt-4&quot;]/div[@class=&quot;w-25 text-center m-auto&quot;]/button[@class=&quot;btn btn-buy continue&quot;]</value>
+      <webElementGuid>e5a549ee-ba62-4c38-983e-5bbc92fc211e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[7]</value>
+      <webElementGuid>2427a045-384a-44fc-97c0-7af87e06f5c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='step-1']/div/div[3]/div/button</value>
+      <webElementGuid>83c2b3e3-2273-47f4-8b29-feefbda07f4a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hot Sale'])[1]/following::button[1]</value>
+      <webElementGuid>28fab891-554f-4965-8b54-a275af6b0ace</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Live Auction'])[1]/following::button[1]</value>
+      <webElementGuid>a50c5c24-5ec6-4958-9b82-11c589b6d5c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please fill all the requirements'])[1]/preceding::button[1]</value>
+      <webElementGuid>31df5b71-02d6-43b7-9541-6b772f2cdc9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Next Step']/parent::*</value>
+      <webElementGuid>a061f969-3c86-4791-8926-2216ec200e3f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/button</value>
+      <webElementGuid>21576f97-4ead-42cf-b558-85e9a50bca1c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = '
+                                Next Step
+                            ' or . = '
+                                Next Step
+                            ')]</value>
+      <webElementGuid>d738ae47-f955-4835-a340-8cc9fdea85d4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
